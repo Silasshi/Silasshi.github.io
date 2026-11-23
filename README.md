@@ -1,3 +1,3 @@
 # Silasshi.github.io
 
-Personal academic website of Yuhong Shi, built with [al-folio](https://github.com/alshedivat/al-folio) and deployed to GitHub Pages.
+Personal website of Yuhong Shi. Plain static HTML/CSS served by GitHub Pages from `main`; edit `index.html` and push.
