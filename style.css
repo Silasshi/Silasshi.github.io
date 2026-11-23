@@ -69,9 +69,9 @@ main {
   margin: 16px 0 28px;
 }
 .avatar {
-  width: 240px;
-  height: 246px;
-  border-radius: 14px;
+  width: 168px;
+  height: 168px;
+  border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
 }
