@@ -14,8 +14,8 @@ footer_text: >
   Built with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 keywords: Yuhong Shi, Oxford, AI for science, vision-language models, agents # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
+icon: brand.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+apple_touch_icon: brand-180.png # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://silasshi.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
